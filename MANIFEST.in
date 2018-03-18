@@ -1,0 +1,3 @@
+graft myapp/templates
+graft myapp/static
+include myapp/schema.sql
